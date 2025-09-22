@@ -3,7 +3,9 @@
 This project demonstrates a modern data engineering workflow using Azure Data Factory, Azure Data Lake Storage, and Databricks. It follows the medallion architecture — organizing data into Bronze, Silver, and Gold layers for scalable transformation and analytics.
 
 ARCHITECTURE OVERVIEW
-![Architecture Diagram](architecture.png)
+
+![Architecture Diagram](Architecture%20Diagram.jpeg)
+
 
 - Bronze Layer: Raw ingestion from source systems
 - Silver Layer: Cleaned and enriched data
