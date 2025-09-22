@@ -26,10 +26,10 @@ ADF PIPELINES
 
 DATASETS
 
-| File | Description |
-|------|-------------|
-| [`sales_data.csv`](datasets/sales_data.csv) | Sample sales data used for pipeline |
-| [`README.md`](datasets/README.md) | Schema and source info |
+This file contains the original data pulled from an external API before ingestion into the Bronze layer.
+
+- [rawdatafromapi.json](rawdatafromapi.json)
+
 
 
 HOW TO RUN
