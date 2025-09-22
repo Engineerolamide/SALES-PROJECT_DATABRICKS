@@ -21,7 +21,8 @@ ADF PIPELINES
 
 | Pipeline | File | Purpose |
 |----------|------|---------|
-| Ingestion | [`ingest_pipeline.json`](adf-pipelines/ingest_pipeline.json) | Pulls raw data into ADLS |
+| Ingestion | [Download Pipeline ZIP](pipeline_sales-analytics.zip)
+| Pulls raw data into ADLS |
 
 DATASETS
 
