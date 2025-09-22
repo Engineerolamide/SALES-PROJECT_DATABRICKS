@@ -4,7 +4,8 @@ This project demonstrates a modern data engineering workflow using Azure Data Fa
 
 ARCHITECTURE OVERVIEW
 
-![Architecture Diagram](Architecture%20Diagram.jpeg)
+![Architecture Diagram](Architecture%20Diagram_Sales%20Analytics..jpg)
+
 
 
 - Bronze Layer: Raw ingestion from source systems
