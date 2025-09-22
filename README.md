@@ -16,7 +16,7 @@ ARCHITECTURE OVERVIEW
 - Azure Data Factory (ADF): Orchestration of data pipelines
 - Azure Data Lake Storage (ADLS): Scalable cloud storage
 - Databricks: Data transformation using PySpark
-- GitHub: Version control and collaboration
+- PowerBI: Visualizes insights from the Gold layer, enabling interactive dashboards and business intelligence reporting
 
 
 ADF PIPELINES
